@@ -7,3 +7,4 @@ feat: implement NFT mint limit per wallet
 feat: add whitelist minting logic
 fix: prevent duplicate minting exploit
 refactor: improve NFT storage mapping
+feat: integrate royalty standard (ERC2981)
