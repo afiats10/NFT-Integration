@@ -8,3 +8,4 @@ feat: add whitelist minting logic
 fix: prevent duplicate minting exploit
 refactor: improve NFT storage mapping
 feat: integrate royalty standard (ERC2981)
+docs: add NFT deployment instructions
